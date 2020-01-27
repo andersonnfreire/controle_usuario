@@ -1,12 +1,12 @@
 # Controle de Usuários - v1.0
 
-O controle de usuários foi implementado em object pascal (delphi) e nesse sistema foram requisitada as seguintes funcionalidades:
+User control was implemented in object pascal (delphi) and in this system the following features were requested:
 
- - CRUD de um usuário no banco de dados.
- - Deve ser possível permitir o usuário acessar ou não cada interface do sistema. Em cada interface deve ser permitido atribuir acesso de pesquisa, alteração, inclusão e exclusão.
- - Ao entrar no sistema o aplicativo deve permitir entrar com o nome e senha do usuário, o sistema deve guardar o nome do ultimo usuário.
- - Efetuar um controle de log do usuário com alterações, inclusão e exclusão por interface.
- - Para cada usuário deve ser possível escolher a cor da interface, cor dos Edits Desabilitados, Cor do EditBeleza Fundo, Cor da Barra Principal, Cor do fundo da tela principal.
+ - CRUD of a user in the database.
+ - It must be possible to allow the user to access or not each system interface. Each interface must be allowed to assign search, change, inclusion and exclusion access.
+ - When entering the system, the application must allow entering the user's name and password, the system must store the name of the last user.
+ - Perform a user log control with changes, inclusion and exclusion by interface.
+ - For each user it should be possible to choose the color of the interface, the color of the Disabled Edits, the Color of the EditBeleza Background, the Color of the Main Bar, the background color of the main screen.
  
  # Parametros
  
